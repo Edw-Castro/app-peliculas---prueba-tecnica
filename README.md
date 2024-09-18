@@ -1,8 +1,16 @@
-# React + Vite
+# Prueba técnica #1
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esta aplicación fue desarrollada siguiendo el tutorial de **[Midudev](https://www.youtube.com/@midulive)** en YouTube.
 
-Currently, two official plugins are available:
+Puedes ver el tutorial completo aquí: [Link al tutorial](https://www.youtube.com/watch?v=B9tDYAZZxcE&list=PLUofhDIg_38q4D0xNWp7FEHOTcZhjWJ29&index=6)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Descripción
+
+Prueba técnica donde se usa [omdapi](https://www.omdbapi.com/) para buscar una película, aquí se usa debounce y useref para evitar enviar enviar peticiones en un lapso corto de tiempo y también evitar hacer la misma búsqueda de manera consecutivamente. 
+
+**Para que funcione la app correctamente debes reemplazar la constante API_KEY en movie.js por tu key de omdapi**
+
+Imagen de la app:
+
+![App de películas](/app.png)
+
