@@ -1,8 +1,8 @@
-# Prueba técnica #1
+# Buscador de películas - Prueba técnica #2
 
 Esta aplicación fue desarrollada siguiendo el tutorial de **[Midudev](https://www.youtube.com/@midulive)** en YouTube.
 
-Puedes ver el tutorial completo aquí: [Link al tutorial](https://www.youtube.com/watch?v=B9tDYAZZxcE&list=PLUofhDIg_38q4D0xNWp7FEHOTcZhjWJ29&index=6)
+Puedes ver el tutorial completo aquí: [Link al tutorial](https://www.youtube.com/watch?v=GOEiMwDJ3lc&list=PLUofhDIg_38q4D0xNWp7FEHOTcZhjWJ29&index=5)
 
 ## Descripción
 
